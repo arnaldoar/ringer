@@ -1,2 +1,0 @@
-# ringer
-for practice purpose
